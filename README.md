@@ -1,0 +1,2 @@
+# Nested JSON/Config Transformer & Validator Pipeline
+What is this project? (Real-life picture) Imagine you work at a company and someone sends you a big messy settings file (JSON). It has users, their roles, preferences, limits, etc., all nested inside each other. Your job is to clean it, check that everything is correct, change some values, remove bad data, and produce a clean version + a summary. This program does that automatically.
